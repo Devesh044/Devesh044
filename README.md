@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://github.com/Devesh044/Devesh044/blob/main/giphy.gif" width="480" height="480">
+        <img src="https://github.com/Devesh044/Devesh044/blob/main/giphy.gif" width="480" height="480">
 
 - 🔭 I’m currently working on Machine Lerning and Deep Learning projects.
 - 🌱 I’m currently learning AI in Healthcare.
